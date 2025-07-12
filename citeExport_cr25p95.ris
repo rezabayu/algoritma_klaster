@@ -1,0 +1,18 @@
+TY  - JOUR
+AB  - Self-organizing maps (SOMs), a particular application of artificial neural networks, are used to proportionately combine precipitation records of individual stations into a regional data set by extracting the common regional variability from the
+locally forced variability at each station. The methodology is applied to a 100 yr record of precipitation data for 104 stations in the Mid-Atlantic/Northeast United States region. The SOM combines stations with common precipitation characteristics and
+identifies precipitation regions that are consistent across a range of spatial scales. A variation of the SOM application identifies the temporal modes of the regional precipitation record and uses them to fill missing data in the station observations to
+produce a regional precipitation record. A test of the methodology with a complete data set shows that the Œmissing data¹ routine improves the regional signal when up to 80% of the data are missing from 80% of the stations. The improvement is almost as
+pronounced when there is a bias in the missing data for both high-precipitation and low-precipitation events.
+AU  - Crane, Robert G.
+AU  - Hewitson, Bruce C.
+EP  - 107
+JF  - Climate Research
+JO  - Clim Res
+N1  - 10.3354/cr025095
+SP  - 95
+TI  - Clustering and upscaling of station precipitation records to regional patterns using self-organizing maps (SOMs)
+UR  - https://www.int-res.com/abstracts/cr/v25/cr025095
+VL  - 25
+Y1  - 2003
+ER  - 
