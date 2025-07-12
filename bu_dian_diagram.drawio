@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="EdkUDacXHdnkS245Z12v">
+    <mxGraphModel dx="1042" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-5" value="Memengaruhi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X4rsRHZxx_91jhAWnjKl-1" target="X4rsRHZxx_91jhAWnjKl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-1" value="Data Curah Hujan&lt;br&gt;(BMKG, 2022)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-6" value="Memengaruhi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X4rsRHZxx_91jhAWnjKl-2" target="X4rsRHZxx_91jhAWnjKl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-2" value="Perencanaan Tata Ruang&lt;br&gt;(Asta Cita; WMO, 2011)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-7" value="Memengaruhi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X4rsRHZxx_91jhAWnjKl-3" target="X4rsRHZxx_91jhAWnjKl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-3" value="Kebutuhan Produk&amp;nbsp; Informasi Iklim&lt;br&gt;(Mahmoud et. al., 2014)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X4rsRHZxx_91jhAWnjKl-4" value="Perbandingan algoritma untuk produk iklim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

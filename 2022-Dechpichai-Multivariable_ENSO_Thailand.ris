@@ -1,0 +1,19 @@
+TY  - EJOUR
+AU  - Dechpichai, Porntip 
+AU  - Jinapang, Nuttawadee 
+AU  - Yamphli, Pariyakorn 
+AU  - Polamnuay, Sakulrat 
+AU  - Injan, Sittisak 
+AU  - Humphries, Usa 
+TI  - Multivariable Panel Data Cluster Analysis of Meteorological Stations in Thailand for ENSO Phenomenon
+T2  - Mathematical and Computational Applications
+PY  - 2022
+VL  - 27
+IS  - 3
+SN  - 2297-8747
+AB  - The purpose of this research is to study the spatial and temporal groupings of 124 meteorological stations in Thailand under ENSO. The multivariate climate variables are rainfall, relative humidity, temperature, max temperature, min temperature, solar downwelling, and horizontal wind from the conformal cubic atmospheric model (CCAM) in years of El Niño (1987, 2004, and 2015) and La Niña (1999, 2000, and 2011). Euclidean distance timed and spaced with average linkage for clustering and silhouette width for cluster validation were employed. Five spatial clusters (SCs) and three temporal clusters (TCs) in each SC with different average precipitation were compared by El Niño and La Niña. The pattern of SCs and TCs was similar for both events except in the case when severe El Niño occurred. This method could be applied using variables forecasted in the future to be used for planning and managing crop cultivation with the climate change in each area.
+KW  - Euclidean distance timed and spaced
+KW  - meteorological station
+KW  - multivariable panel data cluster analysis
+DO  - 10.3390/mca27030037
+ER  -

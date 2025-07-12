@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Hasan, Yasir
+PY  - 2024/04/28
+Y2  - 2025/07/10
+TI  - Pengukuran Silhouette Score dan Davies-Bouldin Index pada Hasil Cluster K-Means dan DBSCAN
+JF  - KAKIFIKOM (Kumpulan Artikel Karya Ilmiah Fakultas Ilmu Komputer)
+JA  - KAKIFIKOM 
+VL  - 6
+IS  - 1
+SE  - 
+DO  - 
+UR  - https://ejournal.ust.ac.id/index.php/KAKIFIKOM/article/view/3938
+SP  - 60-74
+AB  - &lt;p&gt;eval_uation of Clustering results is a critical step in unsupervised data analysis. Clustering algorithms such as K-Means and DBSCAN are often used, but choosing the right algorithm for a dataset can be challenging. Application of Silhouette Score and Davies-Bouldin Index as internal eval_uation metrics to eval_uate Clustering results from K-Means and DBSCAN. The K-Means and DBSCAN methods were chosen because of their popularity and ability to handle various types of data. The Silhouette Score provides a measure of how well each data point is placed in its own Cluster compared to other Clusters, while the Davies-Bouldin Index eval_uates how far away the Cluster is from the others. This research was carried out by implementing both algorithms on an experimental dataset, namely the employee performance dataset and comparing the eval_uation results using these two metrics. The experimental results of both eval_uation metrics provide useful insights in eval_uating the quality of employee performance Clustering from K-Means and DBSCAN. Thus, the use of the Silhouette Score and Davies-Bouldin Index can be an effective guide in choosing an appropriate Clustering algorithm for a dataset without the need for ground truth labels.&lt;/p&gt;
+ER  -
