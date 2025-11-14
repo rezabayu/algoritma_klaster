@@ -1,0 +1,22 @@
+TY  - EJOUR
+AU  - Ahmad Basri, Muhamad A. 
+AU  - Shaharudin, Shazlyn M. 
+AU  - Kismiantini 
+AU  - Tan, Mou L. 
+AU  - Mohd Najib, Sumayyah A. 
+AU  - Zainuddin, Nurul H. 
+AU  - Andayani, Sri 
+TI  - Regionalization of Rainfall Regimes Using Hybrid RF-Bs Couple with Multivariate Approaches
+T2  - ISPRS International Journal of Geo-Information
+PY  - 2021
+VL  - 10
+IS  - 10
+SN  - 2220-9964
+AB  - Monthly precipitation data during the period of 1970 to 2019 obtained from the Meteorological, Climatological and Geophysical Agency database were used to analyze regionalized precipitation regimes in Yogyakarta, Indonesia. There were missing values in 52.6% of the data, which were handled by a hybrid random forest approach and bootstrap method (RF-Bs). The present approach addresses large missing values and also reduces the Root Mean Square Error (RMSE) and the Mean Absolute Error (MAE) in the search for the optimum minimal value. Cluster analysis was used to classify stations or grid points into different rainfall regimes. Hierarchical clustering analysis (HCA) of rainfall data reveal the pattern of behavior of the rainfall regime in a specific region by identifying homogeneous clusters. According to the HCA, four distinct and homogenous regions were recognized. Then, the principal component analysis (PCA) technique was used to homogenize the rainfall series and optimally reduce the long-term rainfall records into a few variables. Moreover, PCA was applied to monthly rainfall data in order to validate the results of the HCA analysis. On the basis of the 75% of cumulative variation, 14 factors for the Dry season and the Rainy season, and 12 factors for the Inter-monsoon season, were extracted among the components using varimax rotation. Consideration of different groupings into these approaches opens up new advanced early warning systems in developing recommendations on how to differentiate climate change adaptation- and mitigation-related policies in order to minimize the largest economic damage and taking necessary precautions when multiple hazard events occur.
+KW  - rainfall
+KW  - principal component analysis (PCA)
+KW  - hierarchical clustering analysis (HCA)
+KW  - imputation method
+KW  - random forest-bootstrap algorithm (RF-Bs)
+DO  - 10.3390/ijgi10100689
+ER  -

@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Statistical verification of 16-day rainfall forecast for a farmers advisory service in Pakistan
+AU  - Bhatti, Muhammad Tousif
+AU  - Anwar, Arif A.
+JO  - Agricultural and Forest Meteorology
+VL  - 317
+SP  - 108888
+PY  - 2022
+DA  - 2022/04/15/
+SN  - 0168-1923
+DO  - https://doi.org/10.1016/j.agrformet.2022.108888
+UR  - https://www.sciencedirect.com/science/article/pii/S0168192322000818
+KW  - Advisory
+KW  - Decision
+KW  - Farmers
+KW  - Forecast
+KW  - Weather
+AB  - Rainfall forecast is useful for farmers to avoid expensive irrigation decisions both in rain-fed and irrigated agricultural areas. In developing countries, farmers have limited knowledge of weather forecast information sources and access to technology such as the internet and smartphones to make use of these forecasts. This paper presents a case of developing Farmers Advisory Service (FAS) in Pakistan that is based on rainfall forecast data. The analysis emphasizes on statistical verification of 16-day rainfall forecast data from a global weather forecast model (Global Forecast System). In-situ data from 15 observatories maintained by Pakistan Meteorological Department in Khyber Pakhtunkhwa province has been considered for verification. Scores of various indicators are calculated for the rainfall forecast ranging from simple forecasts of dichotomous outcomes to forecasts of a continuous variable. A sensitivity analysis is also performed to understand how scores of dichotomous indicators vary by changing the threshold to define a rainfall event and forecast lead time interval. The quality of forecast varies across the stations based on the selected skill scores. The findings of verification, sensitivity analysis, and attributes of FAS provide insight into the process of developing a decision support service for the farmers based on the global weather forecast data.
+ER  - 

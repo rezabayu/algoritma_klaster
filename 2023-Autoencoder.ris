@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - A systematic review on the state-of-the-art strategies for protein representation
+AU  - Yue, Zi-Xuan
+AU  - Yan, Tian-Ci
+AU  - Xu, Hong-Quan
+AU  - Liu, Yu-Hong
+AU  - Hong, Yan-Feng
+AU  - Chen, Gong-Xing
+AU  - Xie, Tian
+AU  - Tao, Lin
+JO  - Computers in Biology and Medicine
+VL  - 152
+SP  - 106440
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2022.106440
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482522011489
+KW  - Protein representation methods
+KW  - Sequence-based descriptors
+KW  - Structure-based descriptors
+KW  - Machine learning
+KW  - Drug research
+AB  - The study of drug-target protein interaction is a key step in drug research. In recent years, machine learning techniques have become attractive for research, including drug research, due to their automated nature, predictive power, and expected efficiency. Protein representation is a key step in the study of drug-target protein interaction by machine learning, which plays a fundamental role in the ultimate accomplishment of accurate research. With the progress of machine learning, protein representation methods have gradually attracted attention and have consequently developed rapidly. Therefore, in this review, we systematically classify current protein representation methods, comprehensively review them, and discuss the latest advances of interest. According to the information extraction methods and information sources, these representation methods are generally divided into structure and sequence-based representation methods. Each primary class can be further divided into specific subcategories. As for the particular representation methods involve both traditional and the latest approaches. This review contains a comprehensive assessment of the various methods which researchers can use as a reference for their specific protein-related research requirements, including drug research.
+ER  - 

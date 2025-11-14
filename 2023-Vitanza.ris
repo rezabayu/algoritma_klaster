@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Vitanza, Eleonora
+AU  - Dimitri, Giovanna Maria
+AU  - Mocenni, Chiara
+PY  - 2023
+DA  - 2023/04/16
+TI  - A multi-modal machine learning approach to detect extreme rainfall events in Sicily
+JO  - Scientific Reports
+SP  - 6196
+VL  - 13
+IS  - 1
+AB  - In 2021 almost 300 mm of rain, nearly half of the average annual rainfall, fell near Catania (Sicily Island, Italy). Such events took place in just a few hours, with dramatic consequences on the environmental, social, economic, and health systems of the region. These phenomena are now very common in various countries all around the world: this is the reason why, detecting local extreme rainfall events is a crucial prerequisite for planning actions, able to reverse possibly intensified dramatic future scenarios. In this paper, the Affinity Propagation algorithm, a clustering algorithm grounded on machine learning, was applied, to the best of our knowledge, for the first time, to detect extreme rainfall areas in Sicily. This was possible by using a high-frequency, large dataset we collected, ranging from 2009 to 2021 which we named RSE (the Rainfall Sicily Extreme dataset). Weather indicators were then been employed to validate the results, thus confirming the presence of recent anomalous rainfall events in eastern Sicily. We believe that easy-to-use and multi-modal data science techniques, such as the one proposed in this study, could give rise to significant improvements in policy-making for successfully contrasting climate change.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-33160-9
+DO  - 10.1038/s41598-023-33160-9
+ID  - Vitanza2023
+ER  - 

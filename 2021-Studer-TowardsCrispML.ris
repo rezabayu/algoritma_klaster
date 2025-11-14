@@ -1,0 +1,25 @@
+TY  - EJOUR
+AU  - Studer, Stefan 
+AU  - Bui, Thanh B. 
+AU  - Drescher, Christian 
+AU  - Hanuschkin, Alexander 
+AU  - Winkler, Ludwig 
+AU  - Peters, Steven 
+AU  - Müller, Klaus-Robert 
+TI  - Towards CRISP-ML(Q): A Machine Learning Process Model with Quality Assurance Methodology
+T2  - Machine Learning and Knowledge Extraction
+PY  - 2021
+VL  - 3
+IS  - 2
+SN  - 2504-4990
+SP  - 392
+EP  - 413
+AB  - Machine learning is an established and frequently used technique in industry and academia, but a standard process model to improve success and efficiency of machine learning applications is still missing. Project organizations and machine learning practitioners face manifold challenges and risks when developing machine learning applications and have a need for guidance to meet business expectations. This paper therefore proposes a process model for the development of machine learning applications, covering six phases from defining the scope to maintaining the deployed machine learning application. Business and data understanding are executed simultaneously in the first phase, as both have considerable impact on the feasibility of the project. The next phases are comprised of data preparation, modeling, evaluation, and deployment. Special focus is applied to the last phase, as a model running in changing real-time environments requires close monitoring and maintenance to reduce the risk of performance degradation over time. With each task of the process, this work proposes quality assurance methodology that is suitable to address challenges in machine learning development that are identified in the form of risks. The methodology is drawn from practical experience and scientific literature, and has proven to be general and stable. The process model expands on CRISP-DM, a data mining process model that enjoys strong industry support, but fails to address machine learning specific tasks. The presented work proposes an industry- and application-neutral process model tailored for machine learning applications with a focus on technical tasks for quality assurance.
+KW  - machine learning applications
+KW  - quality assurance methodology
+KW  - process model
+KW  - automotive industry and academia
+KW  - best practices
+KW  - guidelines
+DO  - 10.3390/make3020020
+ER  -

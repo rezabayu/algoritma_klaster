@@ -1,0 +1,28 @@
+
+TY  - JOUR
+T1  - Convolutional Neural Network-Based Insights Into Extreme Precipitation Regional Dynamics Over Central Africa Using Moisture Flux Patterns
+AU  - Mouassom, Fernand L.
+AU  - Tamoffo, Alain T.
+AU  - Cardoso-Bihlo, Elsa
+Y1  - 2025/08/28
+PY  - 2025
+DA  - 2025/08/28
+DO  - https://doi.org/10.1029/2025JD044341
+T2  - Journal of Geophysical Research: Atmospheres
+JF  - Journal of Geophysical Research: Atmospheres
+JO  - Journal of Geophysical Research: Atmospheres
+JA  - Geophys Res Atmos
+SP  - e2025JD044341
+VL  - 130
+IS  - 16
+KW  - central Africa
+KW  - extreme precipitation
+KW  - moisture flux
+KW  - deep learning
+KW  - convolutional neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 2169-897X
+UR  - https://doi.org/10.1029/2025JD044341
+Y2  - 2025/11/14
+N2  - Abstract Understanding the atmospheric drivers of extreme rainfall is essential for improving regional adaptation strategies. In Central Africa, previous studies widely emphasize large-scale influences, often overlooking complex regional processes. In this study, we combined the capacity of vertically integrated moisture flux convergence (VIMFC) to capture information from the entire atmospheric column with the ability of convolutional neural networks to learn complex, nonlinear patterns from large and intricate data sets, thereby unlocking VIMFC's potential as an effective regional predictor. Our machine learning model successfully identifies 95% of observed extreme rainfall events using VIMFC as input. The CNN's predictions, interpreted using the layer-wise relevance propagation method, highlight its ability to capture spatiotemporal distributions of strong moisture convergence and divergence linked to extreme rainfall and drought events. Over the past two decades, we have observed a clear increase in the frequency of extreme precipitation moisture flux patterns (EPMFPs), which aligns with rising extreme rainfall occurrences. On EPMFP days, we detect stronger low-level moisture inflow from the Atlantic Ocean and enhanced moisture supply driven by a deeper and more intense Congo Basin convective cell. This is supported by evapotranspiration from the basin's dense vegetation, acting as a continental moisture reservoir. Midlevel analysis reveals more moisture retention over the region during EPMFPs, linked to the positioning and strength of the African easterly jets. While both EPMFP and non-EPMFP composites show similar meridional moisture transport, distinct zonal moisture outflow and inflow patterns highlight the dynamical differences between the two regimes.
+ER  - 
