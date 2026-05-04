@@ -1,0 +1,5 @@
+No,Nama Kolom,Keterangan,Satuan / Format
+1,Tahun,Tahun pengamatan,YYYY
+2,Bulan,Bulan pengamatan,1–12
+3,Tanggal,Tanggal pengamatan dalam bulan,1–31
+4,Rainfall,Curah hujan harian,mm
