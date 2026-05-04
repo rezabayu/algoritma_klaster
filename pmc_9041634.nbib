@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PMID- 35706698
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -68,3 +69,75 @@ AID - 10.1080/02664763.2019.1675606 [doi]
 PST - epublish
 SO  - J Appl Stat. 2019 Oct 22;47(8):1460-1481. doi: 10.1080/02664763.2019.1675606. 
       eCollection 2020.
+=======
+PMID- 35706698
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220616
+IS  - 0266-4763 (Print)
+IS  - 1360-0532 (Electronic)
+IS  - 0266-4763 (Linking)
+VI  - 47
+IP  - 8
+DP  - 2020
+TI  - A comparative analysis of clustering algorithms to identify the homogeneous 
+      rainfall gauge stations of Bangladesh.
+PG  - 1460-1481
+LID - 10.1080/02664763.2019.1675606 [doi]
+AB  - Dealing with individual rainfall station is time consuming as well as prone to 
+      more variation. It seems reasonable and advantageous to deal with a group of 
+      homogeneous stations rather than an individual station. Such groups can be 
+      identified using clustering algorithms, techniques used in the multivariate data 
+      analysis. Particularly, in this study, covering both hard and soft clustering 
+      approaches, three clustering algorithms namely Agglomerative hierarchical, 
+      K-means clustering and Fuzzy C-means methods are chosen due to their popularity. 
+      These algorithms are applied over precipitation data recorded by the Bangladesh 
+      Meteorology Department, and a comparison among the algorithms is made. Annual and 
+      seasonal precipitations from 1977 to 2012 recorded in 30 stations are used in 
+      this study. Optimal numbers of clusters in the four precipitation series are 
+      determined using the Gap statistic for K-means clustering and using the extended 
+      Gap statistic for Fuzzy C-means clustering, and are found as 3, 1, 3 and 2 for 
+      annual, pre-monsoon, monsoon and post-monsoon, respectively. This study 
+      investigates the clustering methods in terms of the similarity, members and 
+      homogeneity, among the clusters formed. The clusters are also characterized to 
+      see how they are distributed. Moreover, in terms of cluster homogeneity, Fuzzy 
+      C-means algorithm outperforms the other clustering methods.
+CI  - © 2019 Informa UK Limited, trading as Taylor & Francis Group.
+FAU - Alam, Mohammad Samsul
+AU  - Alam MS
+AD  - Institute of Statistical Research and Training (ISRT), University of Dhaka, 
+      Dhaka, Bangladesh.
+FAU - Paul, Sangita
+AU  - Paul S
+AD  - Institute of Statistical Research and Training (ISRT), University of Dhaka, 
+      Dhaka, Bangladesh.
+LA  - eng
+PT  - Journal Article
+DEP - 20191022
+PL  - England
+TA  - J Appl Stat
+JT  - Journal of applied statistics
+JID - 9883455
+PMC - PMC9041634
+OTO - NOTNLM
+OT  - Fuzzy C-means
+OT  - Gap statistic
+OT  - K-means
+OT  - L-moments
+OT  - hierarchical clustering
+OT  - rainfall
+COIS- No potential conflict of interest was reported by the authors.
+EDAT- 2019/10/22 00:00
+MHDA- 2019/10/22 00:01
+PMCR- 2019/10/22
+CRDT- 2022/06/16 02:27
+PHST- 2022/06/16 02:27 [entrez]
+PHST- 2019/10/22 00:00 [pubmed]
+PHST- 2019/10/22 00:01 [medline]
+PHST- 2019/10/22 00:00 [pmc-release]
+AID - 1675606 [pii]
+AID - 10.1080/02664763.2019.1675606 [doi]
+PST - epublish
+SO  - J Appl Stat. 2019 Oct 22;47(8):1460-1481. doi: 10.1080/02664763.2019.1675606. 
+      eCollection 2020.
+>>>>>>> ce2125bf760237d5cdfb3c8994bc54c7d4c377a4

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TY  - CONF
 T1  - Performance Benchmarking of Clustering Methods using MNIST Data
 A1  - Kumar, Pankaj
@@ -9,3 +10,16 @@ SN  - 9798331518097
 Y1  - 2024
 PB  - IEEE
 ER  - 
+=======
+TY  - CONF
+T1  - Performance Benchmarking of Clustering Methods using MNIST Data
+A1  - Kumar, Pankaj
+A1  - Agrawal, Rashmi
+JO  - 2024 International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)
+SP  - 39
+EP  - 44
+SN  - 9798331518097
+Y1  - 2024
+PB  - IEEE
+ER  - 
+>>>>>>> ce2125bf760237d5cdfb3c8994bc54c7d4c377a4

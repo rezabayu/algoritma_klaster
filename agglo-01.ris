@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TY  - CONF
 T1  - Comparative study of single linkage, complete linkage, and ward method of agglomerative clustering
 A1  - Sharma, Shweta
@@ -9,3 +10,16 @@ SN  - 1728102111
 Y1  - 2019
 PB  - IEEE
 ER  - 
+=======
+TY  - CONF
+T1  - Comparative study of single linkage, complete linkage, and ward method of agglomerative clustering
+A1  - Sharma, Shweta
+A1  - Batra, Neha
+JO  - 2019 international conference on machine learning, big data, cloud and parallel computing (COMITCon)
+SP  - 568
+EP  - 573
+SN  - 1728102111
+Y1  - 2019
+PB  - IEEE
+ER  - 
+>>>>>>> ce2125bf760237d5cdfb3c8994bc54c7d4c377a4

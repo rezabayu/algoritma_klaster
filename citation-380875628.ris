@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TY  - JOUR
 AU  - Khikmah, Khusnia
 AU  - Romadhonia, Riska
@@ -14,4 +15,22 @@ T1  - ANALYSIS OF RAINFALL IN INDONESIA USING A TIME SERIES- BASED CLUSTERING AP
 VL  - 
 DO  - 10.30598/barekengvol18iss2pp0837-0848
 JO  - BAREKENG JURNAL ILMU MATEMATIKA DAN TERAPAN
+=======
+TY  - JOUR
+AU  - Khikmah, Khusnia
+AU  - Romadhonia, Riska
+AU  - Ariyanto, Danang
+AU  - Sofro, A
+AU  - Riani, R
+AU  - Khikmah, Nabilatul
+AU  - Ariyanto, D
+PY  - 2024/06/01
+SP  - 837
+EP  - 848
+N2  - Article History: Indonesia has a tropical climate and has two seasons: dry and rainy. Prolonged drought can cause drought disasters, and rain can cause floods and landslides. According to information from the Meteorology, Climatology, and Geophysics Agency (BMKG), natural disasters such as floods and landslides due to heavy rains have been a severe problem in Indonesia for the past five years. Different regional characteristics can affect the intensity of rain that falls in every province in Indonesia. It can be grouped to determine which provinces have similar characteristics to natural disasters due to rainfall. Later, it can provide information to the government and the public so that they are more aware of natural disasters. So, it is necessary to research and classify provinces in Indonesia for rainfall with cluster analysis. The data used is secondary rainfall data taken from the official BMKG website. Cluster analysis of rainfall in 34 provinces in Indonesia used hierarchical and non-hierarchical methods in this study. The approach that is used in this research limits our clustering of the data. Further research with a machine learning approach is recommended. For the clustering method, the agglomerative hierarchical method includes single, average, and complete linkage. The non-hierarchical method includes k-medoids and fuzzy C-means. The cluster analysis results show that the dynamic time warping (DTW) distance measurement method with the average linkage method has the most optimal cluster results with a silhouette coefficient value of 0.813.
+T1  - ANALYSIS OF RAINFALL IN INDONESIA USING A TIME SERIES- BASED CLUSTERING APPROACH
+VL  - 
+DO  - 10.30598/barekengvol18iss2pp0837-0848
+JO  - BAREKENG JURNAL ILMU MATEMATIKA DAN TERAPAN
+>>>>>>> ce2125bf760237d5cdfb3c8994bc54c7d4c377a4
 ER  - 

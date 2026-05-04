@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TY  - JOUR
 AU  - Pamuji, Geraldi
 AU  - Rongtao, H
@@ -8,4 +9,16 @@ T1  - A Comparison study of DBScan and K-Means Clustering in Jakarta rainfall ba
 VL  - 879
 DO  - 10.1088/1757-899X/879/1/012057
 JO  - IOP Conference Series: Materials Science and Engineering
+=======
+TY  - JOUR
+AU  - Pamuji, Geraldi
+AU  - Rongtao, H
+PY  - 2020/08/07
+SP  - 012057
+N2  - The purpose of this study is to compare between two different of cluster analysis algorithm in data mining on the Tropical Rainfall Measuring Mission (TRMM). The TRMM is a joint mission between NASA and the Japan Aerospace Exploration (JAXA) Agency to study rainfall for weather and climate research. The TRMM satellite data-sets used in this research is a 3-hourly rainfall data within 10 years from 1998 to 2007. These data-sets will be analyzed by two different cluster analysis algorithms in data mining which are K-means and DBScan. In this paper, rainfall data in Jakarta based on TRMM was analyzed and compared in the efficiency and the accuracy using each algorithm. The comparison results of the two algorithmic processes can be seen from several parameters, especially from the number of clusters formed and the time needed to process the model.
+T1  - A Comparison study of DBScan and K-Means Clustering in Jakarta rainfall based on the Tropical Rainfall Measuring Mission (TRMM) 1998-2007
+VL  - 879
+DO  - 10.1088/1757-899X/879/1/012057
+JO  - IOP Conference Series: Materials Science and Engineering
+>>>>>>> ce2125bf760237d5cdfb3c8994bc54c7d4c377a4
 ER  - 
