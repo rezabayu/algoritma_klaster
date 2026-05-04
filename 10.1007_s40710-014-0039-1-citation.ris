@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Darand, Mohammad
+AU  - Mansouri Daneshvar, Mohammad Reza
+PY  - 2014
+DA  - 2014/12/01
+TI  - Regionalization of Precipitation Regimes in Iran Using Principal Component Analysis and Hierarchical Clustering Analysis
+JO  - Environmental Processes
+SP  - 517
+EP  - 532
+VL  - 1
+IS  - 4
+AB  - Daily gridded precipitation data, between years 1951 and 2007, obtained from APHRODITE database, were analyzed to regionalize precipitation regimes in Iran country. The S–mode of principal component analysis (PCA) was applied on seasonal correlation matrix with eight derived variables. Based on eigenvalues over one, three factors were extracted between the components and varimax rotation was used to enhance interpretability of retained PCA scores. Then, hierarchical clustering analysis (HCA) was applied to group the homogeneous precipitation regimes. According to the HCA, nine distinct and homogenous regions were recognized. Then, the Kolmogorov–Smirnov test on seasonal percentage of precipitation distribution in these regions was used to identify the independent regimes which have been spatially mapped by using GIS. This study showed that the APHRODITE dataset potentially could be used for regionalization of precipitation regimes in Iran. According to the results, use of this dataset in order to group precipitation regimes is recommended for arid and semi–arid regions of mid–latitudes, especially in the Middle East countries.
+SN  - 2198-7505
+UR  - https://doi.org/10.1007/s40710-014-0039-1
+DO  - 10.1007/s40710-014-0039-1
+ID  - Darand2014
+ER  - 

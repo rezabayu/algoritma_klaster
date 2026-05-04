@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - Identifying recurring patterns of extreme daily precipitation using K-means algorithm: Uncovering spatial shift driven by climate change over the Italian Peninsula
+AU  - Manco, I.
+AU  - Feitosa, O.M.
+AU  - Raffa, M.
+AU  - Schiano, P.
+AU  - Rianna, G.
+AU  - Mercogliano, P.
+JO  - Weather and Climate Extremes
+VL  - 51
+SP  - 100849
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 2212-0947
+DO  - https://doi.org/10.1016/j.wace.2025.100849
+UR  - https://www.sciencedirect.com/science/article/pii/S2212094725001070
+AB  - This study is aimed at investigating the spatial-time pattern of extreme daily precipitation events on the entire Italian peninsula using a k-means cluster analysis that is applied to high-resolution climate projections. Research analyzes data from the VHR-PRO_IT dataset with a resolution of 2.2 km and examines both historical (1981–2005) and future periods (2035–2065) under the concentration scenarios RCP4.5 and RCP8.5. The clustering methodology identifies 13 different precipitation patterns and illustrates the decisive influence of complex orography, geographical location and maritime influence in shaping extreme precipitation regimes. The results show considerable seasonal fluctuations in precipitation patterns, with the highest intensities being observed in winter, especially in mountain regions. Future projections indicate an increase in rainfall variability in the entire area, whereby the standard deviation under RCP4.5 scenarios increases by about 19 % and 17 % under RCP8.5 scenarios. One of the remarkable changes includes intensification of precipitation in the Eastern Alps and northern Apennin, while a decreasing trend is observed in Sicily, Sardinia, and generally along the Tyrrhenian coast during the Summer. The k-means clustering analysis highlights the variations in precipitation patterns across different regions of Italy, identifying areas most vulnerable to extreme daily events and linking them to potential large-scale changes associated with future shifts in atmospheric circulation patterns. The high-resolution data (2.2 km) enables the representation of mesoscale phenomena and regional variations, and the results provide data to support climate adaptation planning by mapping precipitation distribution changes under future climate scenarios (RCP4.5 and RCP8.5).
+ER  - 

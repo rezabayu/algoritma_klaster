@@ -1,0 +1,33 @@
+
+TY  - JOUR
+T1  - Short-Term Precipitation Forecast Based on the PERSIANN System and LSTM Recurrent Neural Networks
+AU  - Akbari Asanjan, Ata
+AU  - Yang, Tiantian
+AU  - Hsu, Kuolin
+AU  - Sorooshian, Soroosh
+AU  - Lin, Junqiang
+AU  - Peng, Qidong
+Y1  - 2018/11/27
+PY  - 2018
+DA  - 2018/11/27
+DO  - https://doi.org/10.1029/2018JD028375
+T2  - Journal of Geophysical Research: Atmospheres
+JF  - Journal of Geophysical Research: Atmospheres
+JO  - Journal of Geophysical Research: Atmospheres
+JA  - J. Geophys. Res. Atmos.
+SP  - 12,543
+EP  - 12,563
+VL  - 123
+IS  - 22
+KW  - deep learning
+KW  - LSTM
+KW  - RNN
+KW  - PERSIANN system
+KW  - precipitation forecast
+KW  - Rapid Refresh
+PB  - John Wiley & Sons, Ltd
+SN  - 2169-897X
+UR  - https://doi.org/10.1029/2018JD028375
+Y2  - 2026/04/22
+N2  - Abstract Short-term Quantitative Precipitation Forecasting is important for flood forecasting, early flood warning, and natural hazard management. This study proposes a precipitation forecast model by extrapolating Cloud-Top Brightness Temperature (CTBT) using advanced Deep Neural Networks, and applying the forecasted CTBT into an effective rainfall retrieval algorithm to obtain the Short-term Quantitative Precipitation Forecasting (0?6 hr). To achieve such tasks, we propose a Long Short-Term Memory (LSTM) and the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks (PERSIANN), respectively. The precipitation forecasts obtained from our proposed framework, (i.e., LSTM combined with PERSIANN) are compared with a Recurrent Neural Network (RNN), Persistency method, and Farneback optical flow each combined with PERSIANN algorithm and the numerical model results from the first version of Rapid Refresh (RAPv1.0) over three regions in the United States, including the states of Oregon, Oklahoma, and Florida. Our experiments indicate better statistics, such as correlation coefficient and root-mean-square error, for the CTBT forecasts from the proposed LSTM compared to the RNN, Persistency, and the Farneback method. The precipitation forecasts from the proposed LSTM and PERSIANN framework has demonstrated better statistics compared to the RAPv1.0 numerical forecasts and PERSIANN estimations from RNN, Persistency, and Farneback projections in terms of Probability of Detection, False Alarm Ratio, Critical Success Index, correlation coefficient, and root-mean-square error, especially in predicting the convective rainfalls. The proposed method shows superior capabilities in short-term forecasting over compared methods, and has the potential to be implemented globally as an alternative short-term forecast product.
+ER  - 

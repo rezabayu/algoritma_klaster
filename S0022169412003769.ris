@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - The sub-climate regions and the sub-precipitation regime regions in Turkey
+AU  - Sahin, Sinan
+AU  - Kerem Cigizoglu, H.
+JO  - Journal of Hydrology
+VL  - 450-451
+SP  - 180
+EP  - 189
+PY  - 2012
+DA  - 2012/07/11/
+SN  - 0022-1694
+DO  - https://doi.org/10.1016/j.jhydrol.2012.04.062
+UR  - https://www.sciencedirect.com/science/article/pii/S0022169412003769
+KW  - Climate regions
+KW  - Precipitation regime regions
+KW  - Hierarchical cluster analysis
+KW  - Neuro-fuzzy clustering
+KW  - Turkey
+AB  - Summary
+A matrix created from the correlation coefficients of the meteorological data was used as input for cluster analysis and this application yielded much better results in high cluster solutions as compared to classical approaches. Climate transition regions were observed in high cluster solutions when the matrix created from the correlation coefficients was used as input. Consequently, “sub-precipitation regime regions” and “sub-climate regions” of Turkey were demonstrated for the first time. Unlike the studies conducted in Turkey, relative humidity data was employed for cluster analysis in this study. According to the results, Turkey is composed of seven main precipitation regime regions and 16 “sub-precipitation regime regions” and seven main climate regions and 15 “sub-climate regions”. For the determination of sub-precipitation regime regions and sub-climate regions in Turkey, cluster analysis methods including Ward’s Method and a neuro-fuzzy method (NFM) developed for this study were applied. The NFM was applied on iris data which is commonly used in the literature to test the performance of the cluster analysis methods. With a performance of 95.33%, the method proved to be applicable to cluster analysis problems. Moreover, stability tests performed with different number of stations revealed that the NFM developed in this study is applicable for the cluster analysis.
+ER  - 

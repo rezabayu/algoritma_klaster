@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Silva, Vander
+AU  - Texeira, Raphael
+PY  - 2025/03/14
+SP  - e85042
+N2  - Identifying patterns in precipitation time series in a given region is fundamental for its socioeconomic development. Many studies on this topic have been carried out in Brazil, mainly in the Amazon region. This research aimed at the development of a computational method for analyzing time series of precipitation using machine learning techniques, aiming at a method capable of extracting complex characteristics from the data, obtaining a map of attributes in low dimensionality for pattern recognition and discovery of homogeneous regions with respect to precipitation in the Legal Amazon. The proposed model is trained to learn the main and most complex characteristics of the original data and present them in low dimensionality in latent space. After training, the observations of the reconstructed data showed good performance as evaluated by the RMSE and NRMSE metric with resulting values equal to 0.06610 and 0.3355 respectively. The result of the low-dimensional representation of the data was analyzed by a clustering structure using hierarchical clustering with Ward's method. This methodology carried out consistent groupings characterizing homogeneous regions in relation to precipitation data. In this way, demonstrating that the representation in low dimensionality carried the main characteristics of the time series of the studied data.
+T1  - Clustering of spatio-temporal precipitation patterns in the Legal Amazon using deep convolutional autoencoder
+VL  - 47
+DO  - 10.5902/2179460X85042
+JO  - Ciência e Natura
+ER  - 

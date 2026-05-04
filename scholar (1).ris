@@ -1,0 +1,16 @@
+TY  - JOUR
+T1  - Dropout: a simple way to prevent neural networks from overfitting
+A1  - Srivastava, Nitish
+A1  - Hinton, Geoffrey
+A1  - Krizhevsky, Alex
+A1  - Sutskever, Ilya
+A1  - Salakhutdinov, Ruslan
+JO  - The journal of machine learning research
+VL  - 15
+IS  - 1
+SP  - 1929
+EP  - 1958
+SN  - 1532-4435
+Y1  - 2014
+PB  - JMLR. org
+ER  - 

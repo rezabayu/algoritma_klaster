@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - Silhouettes: A graphical aid to the interpretation and validation of cluster analysis
+AU  - Rousseeuw, Peter J.
+JO  - Journal of Computational and Applied Mathematics
+VL  - 20
+SP  - 53
+EP  - 65
+PY  - 1987
+DA  - 1987/11/01/
+SN  - 0377-0427
+DO  - https://doi.org/10.1016/0377-0427(87)90125-7
+UR  - https://www.sciencedirect.com/science/article/pii/0377042787901257
+KW  - Graphical display
+KW  - cluster analysis
+KW  - clustering validity
+KW  - classification
+AB  - A new graphical display is proposed for partitioning techniques. Each cluster is represented by a so-called silhouette, which is based on the comparison of its tightness and separation. This silhouette shows which objects lie well within their cluster, and which ones are merely somewhere in between clusters. The entire clustering is displayed by combining the silhouettes into a single plot, allowing an appreciation of the relative quality of the clusters and an overview of the data configuration. The average silhouette width provides an evaluation of clustering validity, and might be used to select an ‘appropriate’ number of clusters.
+ER  - 

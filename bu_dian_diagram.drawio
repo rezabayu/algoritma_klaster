@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.0" pages="4">
   <diagram name="Page-1" id="EdkUDacXHdnkS245Z12v">
     <mxGraphModel dx="1042" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,93 +33,223 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-1" value="Permasalahan dan kebutuhan layanan klimatologis lokal - Bab I" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="20" width="260" height="102" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Permasalahan dan kebutuhan layanan klimatologis lokal" vertex="1">
+          <mxGeometry height="102" width="260" x="175" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-2" value="Tujuan penelitian - Bab I" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="187" y="172" width="236" height="54" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Tujuan penelitian" vertex="1">
+          <mxGeometry height="54" width="236" x="187" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-3" value="Tinjauan pustaka dan celah penelitian - Bab II 2.1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="276" width="260" height="78" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Tinjauan pustaka dan celah penelitian" vertex="1">
+          <mxGeometry height="78" width="260" x="175" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-4" value="Landasan teori - Bab II 2.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="181" y="404" width="249" height="54" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Landasan teori" vertex="1">
+          <mxGeometry height="54" width="249" x="181" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-5" value="Data dan prapemrosesan curah hujan harian 1995-2024 - Bab III" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="508" width="260" height="102" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Data dan prapemrosesan curah hujan harian 1995-2024" vertex="1">
+          <mxGeometry height="102" width="260" x="175" y="508" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-6" value="Blok A: Tipologi rejim hujan tahunan (Autoencoder + klastering)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="660" width="260" height="102" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Blok A: Tipologi rejim hujan tahunan (Autoencoder + klastering)" vertex="1">
+          <mxGeometry height="102" width="260" x="20" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-7" value="Blok B: Sinyal hujan lebat harian (CNN 1D)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="672" width="260" height="78" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Blok B: Sinyal hujan lebat harian (CNN 1D)" vertex="1">
+          <mxGeometry height="78" width="260" x="330" y="672" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-8" value="Luaran: Tipologi rejim hujan tahunan yang berkualitas dan stabil" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="812" width="260" height="102" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Luaran: Tipologi rejim hujan tahunan yang berkualitas dan stabil" vertex="1">
+          <mxGeometry height="102" width="260" x="20" y="812" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-9" value="Luaran: Prototipe sinyal deteksi atau indikasi dini hujan lebat harian" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="812" width="260" height="102" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Luaran: Prototipe sinyal deteksi atau indikasi dini hujan lebat harian" vertex="1">
+          <mxGeometry height="102" width="260" x="330" y="812" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-10" value="Rekomendasi produk klimatologis lokal dan kontribusi ilmiah di bidang TI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="964" width="260" height="126" as="geometry" />
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=17;" value="Rekomendasi produk klimatologis lokal dan kontribusi ilmiah di bidang TI" vertex="1">
+          <mxGeometry height="126" width="260" x="175" y="964" as="geometry" />
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-1" target="C_3B4XFmbo8fPFWaGw4w-2">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-11" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-2" target="C_3B4XFmbo8fPFWaGw4w-3">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-12" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-3" target="C_3B4XFmbo8fPFWaGw4w-4">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-13" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-4" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-4" target="C_3B4XFmbo8fPFWaGw4w-5">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-14" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-5" target="C_3B4XFmbo8fPFWaGw4w-6">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-15" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-6" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-5" target="C_3B4XFmbo8fPFWaGw4w-7">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-16" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-6" target="C_3B4XFmbo8fPFWaGw4w-8">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-17" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-8" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-7" target="C_3B4XFmbo8fPFWaGw4w-9">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-18" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-9" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-8" target="C_3B4XFmbo8fPFWaGw4w-10">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-19" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.07;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-10" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="939" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_3B4XFmbo8fPFWaGw4w-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-9" target="C_3B4XFmbo8fPFWaGw4w-10">
+        <mxCell id="C_3B4XFmbo8fPFWaGw4w-20" edge="1" parent="1" source="C_3B4XFmbo8fPFWaGw4w-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;" target="C_3B4XFmbo8fPFWaGw4w-10" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="939" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-2" id="noZKWK1U81ar1ct5QT1F">
+    <mxGraphModel dx="1042" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-0" />
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-1" parent="Erb88vvj4OwBAK4v7Qxg-0" />
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-2" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Permasalahan dan kebutuhan layanan klimatologis lokal" vertex="1">
+          <mxGeometry height="102" width="260" x="175" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-3" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Tujuan penelitian" vertex="1">
+          <mxGeometry height="54" width="236" x="550" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-4" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Tinjauan pustaka dan celah penelitian" vertex="1">
+          <mxGeometry height="78" width="260" x="909" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-5" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Landasan teori" vertex="1">
+          <mxGeometry height="54" width="249" x="914.5" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="reI2Gcywvl2xs0K9aLwF-0" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reI2Gcywvl2xs0K9aLwF-1" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-6" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Data dan prapemrosesan curah hujan harian 1995-2024" vertex="1">
+          <mxGeometry height="102" width="260" x="538" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-7" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Blok A: Tipologi rejim hujan tahunan (Autoencoder + klastering)" vertex="1">
+          <mxGeometry height="102" width="260" x="290" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-8" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Blok B: Sinyal hujan lebat harian (CNN 1D)" vertex="1">
+          <mxGeometry height="78" width="260" x="786" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="reI2Gcywvl2xs0K9aLwF-3" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-9" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Luaran: Tipologi rejim hujan tahunan yang berkualitas dan stabil" vertex="1">
+          <mxGeometry height="102" width="260" x="290" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="reI2Gcywvl2xs0K9aLwF-2" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-10" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Luaran: Prototipe sinyal deteksi atau indikasi dini hujan lebat harian" vertex="1">
+          <mxGeometry height="102" width="260" x="786" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-11" parent="Erb88vvj4OwBAK4v7Qxg-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Verdana;fontSize=17;" value="Rekomendasi produk klimatologis lokal dan kontribusi ilmiah di bidang TI" vertex="1">
+          <mxGeometry height="126" width="260" x="538" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-12" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-13" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-14" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-15" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-5" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-18" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erb88vvj4OwBAK4v7Qxg-19" edge="1" parent="Erb88vvj4OwBAK4v7Qxg-1" source="Erb88vvj4OwBAK4v7Qxg-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Verdana;" target="Erb88vvj4OwBAK4v7Qxg-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_9ZC5hIghCCdlR7-ZO6F" name="Page-3">
+    <mxGraphModel dx="1042" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1dlugARX_q1MbgNOrQYu-8" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;1. Fenomena dan Permasalahan&lt;/b&gt;&lt;br&gt;Curah hujan di wilayah maritim seperti Serang yang kompleks." vertex="1">
+          <mxGeometry height="70" width="200" x="470" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-9" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;2. Kebutuhan Analisis Pola Curah Hujan&lt;/b&gt;&lt;br&gt;Perlu dilakukan pengelompokan pola curah hujan." vertex="1">
+          <mxGeometry height="70" width="200" x="470" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-10" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-11" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;3. Kecocokan Deep Learning&lt;/b&gt;&lt;br&gt;Deep learning cocok untuk analisis pola" vertex="1">
+          <mxGeometry height="70" width="200" x="470" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-13" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;4. Peran Autoencoder&lt;/b&gt;&lt;div&gt;Representasi, ekstraksi fitur, dan dimensi.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="290" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-12" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;5. Peran CNN&lt;/b&gt;&lt;div&gt;Deteksi kejadian hujan lebat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="660" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-14" edge="1" parent="1" source="1dlugARX_q1MbgNOrQYu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="1dlugARX_q1MbgNOrQYu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;6. Integrasi Autoencoder + CNN&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="470" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="1dlugARX_q1MbgNOrQYu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;b&gt;7. Output Penelitian&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="470" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
