@@ -48,7 +48,7 @@ K_VALUES = [2, 3, 4, 5, 6]
 
 EPOCHS = 2000
 PATIENCE = 150
-LEARNING_RATE = 0.01
+LEARNING_RATE = 0.001
 N_BOOTSTRAP = 200
 
 
@@ -184,6 +184,7 @@ for latent_dim in LATENT_DIMS:
     Z = encoder.predict(X_scaled, verbose=0)
     X_recon_scaled = autoencoder.predict(X_scaled, verbose=0)
     X_recon = scaler.inverse_transform(X_recon_scaled)
+    X_recon = np.clip(X_recon, 0, None)
 
     mse_original = float(np.mean((X - X_recon) ** 2))
     mae_original = float(np.mean(np.abs(X - X_recon)))
