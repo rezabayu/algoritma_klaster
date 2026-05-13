@@ -1,0 +1,13 @@
+{
+    "Latent_Dim": 2.0,
+    "Jumlah_Klaster": 5.0,
+    "Silhouette": 0.4068,
+    "Davies_Bouldin": 0.5544,
+    "Calinski_Harabasz": 42.9958,
+    "Bootstrap_ARI_Mean": 0.6962,
+    "Bootstrap_ARI_Std": 0.1852,
+    "Rank_Silhouette": 3.0,
+    "Rank_DBI": 1.0,
+    "Rank_ARI": 1.0,
+    "Total_Rank": 5.0
+}

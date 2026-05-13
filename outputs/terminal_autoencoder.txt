@@ -1,0 +1,58 @@
+Input shape: (30, 36)
+Jumlah tahun: 30
+Jumlah fitur dasarian: 36
+
+Training Autoencoder latent_dim=2
+[WARNING]
+
+Training Autoencoder latent_dim=3
+
+Training Autoencoder latent_dim=4
+
+Evaluasi Autoencoder:
+   Latent_Dim  Final_MSE_Scaled  MSE_Original  MAE_Original  Epoch_Terpakai
+0           2          0.275546      415.1130       13.7046            1262
+1           3          0.141403      212.0439       10.3463            1065
+2           4          0.192604      280.2183       11.7270            1339
+
+Evaluasi Cluster:
+    Latent_Dim  Jumlah_Klaster  Silhouette  ...  Rank_DBI  Rank_ARI  Total_Rank
+0            2               5      0.4068  ...       1.0       1.0         5.0
+1            2               4      0.4233  ...       2.0       4.0         8.0
+2            2               6      0.3789  ...       3.0       6.0        13.0
+3            3               6      0.3252  ...       6.0       2.0        14.0
+4            2               3      0.3624  ...       4.0       8.0        17.0
+5            3               4      0.3202  ...       5.0       7.0        19.0
+6            2               2      0.5048  ...       7.0      13.0        21.0
+7            3               5      0.3164  ...       8.0       5.0        22.0
+8            4               2      0.2921  ...      15.0       3.0        28.0
+9            3               3      0.2856  ...      10.0      10.0        31.0
+10           4               6      0.2299  ...      11.0       9.0        35.0
+11           4               4      0.2653  ...      12.0      12.0        36.0
+12           3               2      0.3177  ...      14.0      15.0        37.0
+13           4               3      0.2637  ...      13.0      11.0        37.0
+14           4               5      0.2445  ...       9.0      14.0        37.0
+
+[15 rows x 11 columns]
+
+Konfigurasi terpilih:
+{'Latent_Dim': 2.0, 'Jumlah_Klaster': 5.0, 'Silhouette': 0.4068, 'Davies_Bouldin': 0.5544, 'Calinski_Harabasz': 42.9958, 'Bootstrap_ARI_Mean': 0.6962, 'Bootstrap_ARI_Std': 0.1852, 'Rank_Silhouette': 3.0, 'Rank_DBI': 1.0, 'Rank_ARI': 1.0, 'Total_Rank': 5.0}
+
+============================================================
+SELESAI AUTOENCODER + CLUSTERING
+============================================================
+Latent dim terpilih: 2
+Jumlah klaster terpilih: 5
+
+Profil tipologi:
+   Tipologi  ...                                      Tahun_Anggota
+0         1  ...  1997, 1999, 2003, 2004, 2006, 2008, 2009, 2012...
+1         2  ...                                               2023
+2         3  ...                             2002, 2007, 2011, 2018
+3         4  ...  1995, 1996, 2000, 2001, 2005, 2010, 2014, 2015...
+4         5  ...                       1998, 2013, 2017, 2020, 2024
+
+[5 rows x 8 columns]
+
+Output tersimpan di:
+outputs/autoencoder
