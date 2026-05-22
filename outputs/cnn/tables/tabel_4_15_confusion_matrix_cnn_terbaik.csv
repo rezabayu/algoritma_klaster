@@ -1,0 +1,5 @@
+Komponen,Jumlah,Keterangan
+TN,2106,Tidak hujan lebat diprediksi tidak hujan lebat
+FP,51,Tidak hujan lebat diprediksi hujan lebat
+FN,35,Hujan lebat tidak terdeteksi
+TP,0,Hujan lebat berhasil terdeteksi
