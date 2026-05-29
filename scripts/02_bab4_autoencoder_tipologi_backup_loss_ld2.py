@@ -427,49 +427,16 @@ stability_final.to_csv(
 
 
 # ============================================================
-# 9. GAMBAR LOSS AUTOENCODER
+# 9. GAMBAR 4.6 LOSS AUTOENCODER
 # ============================================================
 
-# 9a. Kurva loss konfigurasi terpilih berdasarkan AE + K-Means
 plt.figure(figsize=(9, 5))
 plt.plot(loss_best)
-plt.title(f"Kurva Loss Autoencoder Konfigurasi Terpilih (Latent Dim = {best_latent_dim})")
+plt.title(f"Kurva Loss Autoencoder (Latent Dim = {best_latent_dim})")
 plt.xlabel("Epoch")
 plt.ylabel("MSE Loss")
 plt.tight_layout()
 plt.savefig(f"{OUT_FIGURES}/gambar_4_6_loss_autoencoder.png")
-plt.close()
-
-
-# 9b. Kurva loss Autoencoder dengan latent dimension terbaik berdasarkan rekonstruksi
-best_recon_latent_dim = int(ae_eval.sort_values("MSE_Original").iloc[0]["Latent_Dim"])
-loss_best_recon = trained_models[best_recon_latent_dim]["loss_history"]
-
-plt.figure(figsize=(9, 5))
-plt.plot(loss_best_recon)
-plt.title(f"Kurva Loss Autoencoder Terbaik Berdasarkan Rekonstruksi (Latent Dim = {best_recon_latent_dim})")
-plt.xlabel("Epoch")
-plt.ylabel("MSE Loss")
-plt.tight_layout()
-plt.savefig(f"{OUT_FIGURES}/gambar_4_6b_loss_autoencoder_best_reconstruction.png")
-plt.close()
-
-
-# 9c. Kurva perbandingan loss untuk seluruh latent dimension
-plt.figure(figsize=(9, 5))
-
-for latent_dim in LATENT_DIMS:
-    plt.plot(
-        trained_models[latent_dim]["loss_history"],
-        label=f"Latent Dim = {latent_dim}"
-    )
-
-plt.title("Perbandingan Kurva Loss Autoencoder pada Beberapa Latent Dimension")
-plt.xlabel("Epoch")
-plt.ylabel("MSE Loss")
-plt.legend()
-plt.tight_layout()
-plt.savefig(f"{OUT_FIGURES}/gambar_4_6c_loss_autoencoder_all_latent_dims.png")
 plt.close()
 
 
