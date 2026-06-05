@@ -1,0 +1,11 @@
+Model,POD,FAR,CSI,AUROC,TP,FP,FN,TN,Tipe
+original,0.0857,0.9583,0.0288,0.6665,3,69,32,2088,CNN_Undersampling
+Baseline_R10_ge_50,0.5143,0.9789,0.0207,,18,834,17,1323,Baseline
+Baseline_R7_ge_50,0.3429,0.979,0.0202,,12,560,23,1597,Baseline
+us_1_3,0.1429,0.9778,0.0196,0.6366,5,220,30,1937,CNN_Undersampling
+us_1_5,0.0857,0.9796,0.0168,0.6423,3,144,32,2013,CNN_Undersampling
+Baseline_R5_ge_50,0.1714,0.9835,0.0153,,6,357,29,1800,Baseline
+Baseline_R3_ge_50,0.0571,0.9882,0.0099,,2,168,33,1989,Baseline
+us_1_10,0.0286,0.9947,0.0045,0.5791,1,187,34,1970,CNN_Undersampling
+Baseline_R1_ge_50,0.0,1.0,0.0,,0,35,35,2122,Baseline
+us_1_1,0.0,1.0,0.0,0.62,0,25,35,2132,CNN_Undersampling

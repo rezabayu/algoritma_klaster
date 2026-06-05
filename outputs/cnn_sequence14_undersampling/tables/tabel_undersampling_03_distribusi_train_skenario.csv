@@ -1,0 +1,6 @@
+Scenario,Ratio_Negatif_per_Positif,Train_Total,Train_Tidak_Hujan_Lebat,Train_Hujan_Lebat,Train_Persen_Hujan_Lebat
+original,original,6561,6486,75,1.14
+us_1_1,1:1,150,75,75,50.0
+us_1_3,1:3,300,225,75,25.0
+us_1_5,1:5,450,375,75,16.67
+us_1_10,1:10,825,750,75,9.09
