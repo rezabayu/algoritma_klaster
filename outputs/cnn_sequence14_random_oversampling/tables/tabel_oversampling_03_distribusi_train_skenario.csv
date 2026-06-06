@@ -1,0 +1,6 @@
+Scenario,Target_Ratio_Negatif_per_Positif,Train_Total,Train_Tidak_Hujan_Lebat,Train_Hujan_Lebat,Train_Persen_Hujan_Lebat
+original,original,6561,6486,75,1.14
+os_pos_1_10,10:1,7135,6486,649,9.1
+os_pos_1_5,5:1,7784,6486,1298,16.68
+os_pos_1_3,3:1,8648,6486,2162,25.0
+os_pos_1_1,1:1,12972,6486,6486,50.0

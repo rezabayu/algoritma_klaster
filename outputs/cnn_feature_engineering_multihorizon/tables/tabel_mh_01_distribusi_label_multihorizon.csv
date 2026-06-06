@@ -1,0 +1,16 @@
+Horizon_Hari,Split,Jumlah_Data,Tidak_Ada_Hujan_Lebat,Ada_Hujan_Lebat_Dalam_Horizon,Persentase_Positive
+1,test,2183,2148,35,1.6
+1,train,6561,6486,75,1.14
+1,validation,2191,2165,26,1.19
+3,test,2183,2080,103,4.72
+3,train,6561,6346,215,3.28
+3,validation,2191,2116,75,3.42
+5,test,2183,2013,170,7.79
+5,train,6561,6217,344,5.24
+5,validation,2191,2072,119,5.43
+7,test,2183,1947,236,10.81
+7,train,6561,6093,468,7.13
+7,validation,2191,2029,162,7.39
+10,test,2183,1848,335,15.35
+10,train,6561,5913,648,9.88
+10,validation,2191,1968,223,10.18

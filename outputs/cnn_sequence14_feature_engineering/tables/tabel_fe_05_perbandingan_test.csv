@@ -1,0 +1,10 @@
+Model,POD,FAR,CSI,AUROC,TP,FP,FN,TN,Tipe
+none,0.5714,0.9699,0.0294,0.6715,20,645,15,1512,CNN_FeatureEngineering
+CNN_seq14_aux_none_lama,0.0857,0.9583,0.0288,0.6665,3,69,32,2088,CNN_Previous
+weight_1_2,0.6,0.9762,0.0234,0.6721,21,863,14,1294,CNN_FeatureEngineering
+Baseline_R10_ge_50,0.5143,0.9789,0.0207,,18,834,17,1323,Baseline
+Baseline_R7_ge_50,0.3429,0.979,0.0202,,12,560,23,1597,Baseline
+Baseline_R5_ge_50,0.1714,0.9835,0.0153,,6,357,29,1800,Baseline
+Baseline_R3_ge_50,0.0571,0.9882,0.0099,,2,168,33,1989,Baseline
+Baseline_R1_ge_50,0.0,1.0,0.0,,0,35,35,2122,Baseline
+weight_1_3,0.0,1.0,0.0,0.5913,0,131,35,2026,CNN_FeatureEngineering

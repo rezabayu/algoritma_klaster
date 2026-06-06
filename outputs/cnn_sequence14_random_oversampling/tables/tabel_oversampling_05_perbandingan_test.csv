@@ -1,0 +1,11 @@
+Model,POD,FAR,CSI,AUROC,TP,FP,FN,TN,Tipe
+original,0.0857,0.9709,0.0222,0.6656,3,100,32,2057,CNN_RandomOversampling
+os_pos_1_3,0.2571,0.9776,0.021,0.546,9,393,26,1764,CNN_RandomOversampling
+Baseline_R10_ge_50,0.5143,0.9789,0.0207,,18,834,17,1323,Baseline
+Baseline_R7_ge_50,0.3429,0.979,0.0202,,12,560,23,1597,Baseline
+Baseline_R5_ge_50,0.1714,0.9835,0.0153,,6,357,29,1800,Baseline
+os_pos_1_1,0.1714,0.9876,0.0117,0.4492,6,477,29,1680,CNN_RandomOversampling
+Baseline_R3_ge_50,0.0571,0.9882,0.0099,,2,168,33,1989,Baseline
+Baseline_R1_ge_50,0.0,1.0,0.0,,0,35,35,2122,Baseline
+os_pos_1_10,0.0,1.0,0.0,0.518,0,5,35,2152,CNN_RandomOversampling
+os_pos_1_5,0.0,1.0,0.0,0.5047,0,25,35,2132,CNN_RandomOversampling

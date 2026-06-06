@@ -1,0 +1,5 @@
+Komponen,Jumlah,Keterangan
+TN,1568,Tidak ada hujan lebat dalam horizon diprediksi benar
+FP,280,"False alarm: diprediksi ada hujan lebat dalam horizon, tetapi tidak terjadi"
+FN,245,Kejadian hujan lebat dalam horizon tidak terdeteksi
+TP,90,Kejadian hujan lebat dalam horizon berhasil terdeteksi

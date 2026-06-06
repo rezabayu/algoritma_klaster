@@ -1,0 +1,11 @@
+Horizon_Hari,Model,POD,FAR,CSI,AUROC,TP,FP,FN,TN,Tipe
+1,Baseline_R10_ge_50,0.5143,0.9786,0.0209,,18,825,17,1323,Best_Baseline
+1,CNN_FE_H1_none,0.0286,0.9808,0.0116,0.6716,1,51,34,2097,CNN_FeatureEngineering_MultiHorizon
+3,CNN_FE_H3_none,0.2524,0.913,0.0691,0.6638,26,273,77,1807,CNN_FeatureEngineering_MultiHorizon
+3,Baseline_R10_ge_50,0.4563,0.9442,0.0523,,47,796,56,1284,Best_Baseline
+5,Baseline_R10_ge_50,0.4529,0.9087,0.0823,,77,766,93,1247,Best_Baseline
+5,CNN_FE_H5_none,0.0706,0.8286,0.0526,0.6514,12,58,158,1955,CNN_FeatureEngineering_MultiHorizon
+7,CNN_FE_H7_none,0.339,0.8344,0.1252,0.6558,80,403,156,1544,CNN_FeatureEngineering_MultiHorizon
+7,Baseline_R10_ge_50,0.4492,0.8743,0.1089,,106,737,130,1210,Best_Baseline
+10,CNN_FE_H10_none,0.2687,0.7568,0.1463,0.6733,90,280,245,1568,CNN_FeatureEngineering_MultiHorizon
+10,Baseline_R10_ge_50,0.4448,0.8233,0.1448,,149,694,186,1154,Best_Baseline
