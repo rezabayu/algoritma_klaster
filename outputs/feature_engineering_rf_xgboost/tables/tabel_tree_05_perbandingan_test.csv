@@ -1,0 +1,14 @@
+Model,POD,FAR,CSI,AUROC,TP,FP,FN,TN,Tipe
+CNN_feature_engineering_none,0.5714,0.9699,0.0294,0.6715,20,645,15,1512,CNN_FeatureEngineering
+CNN_seq14_aux_none_laporan,0.0857,0.9583,0.0288,0.6665,3,69,32,2088,CNN_Laporan
+XGB_none,0.1714,0.976,0.0215,0.6607,6,244,29,1913,FeatureEngineering_Tree
+Baseline_R10_ge_50,0.5143,0.9789,0.0207,,18,834,17,1323,Baseline
+Baseline_R7_ge_50,0.3429,0.979,0.0202,,12,560,23,1597,Baseline
+XGB_spw_full,0.1429,0.9781,0.0194,0.6583,5,223,30,1934,FeatureEngineering_Tree
+RF_balanced_depth5,0.0857,0.9792,0.017,0.6575,3,141,32,2016,FeatureEngineering_Tree
+XGB_spw_sqrt,0.0857,0.9796,0.0168,0.664,3,144,32,2013,FeatureEngineering_Tree
+Baseline_R5_ge_50,0.1714,0.9835,0.0153,,6,357,29,1800,Baseline
+RF_balanced_subsample_depth5,0.0571,0.9806,0.0147,0.6564,2,101,33,2056,FeatureEngineering_Tree
+Baseline_R3_ge_50,0.0571,0.9882,0.0099,,2,168,33,1989,Baseline
+RF_none_depth5,0.0,1.0,0.0,0.6276,0,1,35,2156,FeatureEngineering_Tree
+Baseline_R1_ge_50,0.0,1.0,0.0,,0,35,35,2122,Baseline

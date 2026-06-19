@@ -1,0 +1,4 @@
+Split,Jumlah_Data,Tidak_Hujan_Lebat_<50mm,Hujan_Lebat_>=50mm,Persentase_Hujan_Lebat
+test,2192,2157,35,1.6
+train,6561,6486,75,1.14
+validation,2191,2165,26,1.19

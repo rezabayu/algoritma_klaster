@@ -1,0 +1,22 @@
+{
+    "Model": "RF_none_depth5",
+    "Decision_Threshold": 0.11,
+    "Val_POD": 0.0385,
+    "Val_FAR": 0.6667,
+    "Val_CSI": 0.0357,
+    "Val_AUROC": 0.7095,
+    "Val_TP": 1,
+    "Val_FP": 2,
+    "Val_FN": 25,
+    "Val_TN": 2163,
+    "Test_POD": 0.0,
+    "Test_FAR": 1.0,
+    "Test_CSI": 0.0,
+    "Test_AUROC": 0.6276,
+    "Test_Accuracy": 0.9836,
+    "Test_F1": 0.0,
+    "Test_TP": 0,
+    "Test_FP": 1,
+    "Test_FN": 35,
+    "Test_TN": 2156
+}
